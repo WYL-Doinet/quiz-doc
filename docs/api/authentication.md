@@ -12,7 +12,7 @@ All endpoints are prefixed with `/api` and require **Bearer Token** authenticati
 Authorization: Bearer {{token}}
 ```
 
-## 🧑‍💼 Auth Endpoints
+## 🧑‍💼 Auth
 
 ### 🔐 POST `/login`
 
